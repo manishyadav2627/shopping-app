@@ -7,10 +7,10 @@
 .card{
     min-width: 300px;
     min-height: 400px;
-    border: 0px solid #eee;
+    border: 0px solid #ebde;
     overflow: hidden;
     padding: 10px;
-    box-shadow: 2px 8px 20px #f56f6f;
+    box-shadow: 2px 8px 20px #ebde;
     margin: 10px;
     transition: 0.5s linear;
 }

@@ -4,7 +4,7 @@ header{
     justify-content: space-around;
     align-items: center;
     overflow: hidden;
-    background-color: #debdbd;
+    background-color: #ebdede;
 
 }
 header .logo a{
@@ -41,7 +41,6 @@ nav .nav-cart span{
     color: white;
     padding: 3px 5px;
     border-radius: 50%;
-    z-index: -1;
 }
 header .menu,
 header .close{
@@ -59,7 +58,7 @@ header .close{
         justify-content: space-around;
         align-items: center;
         flex-direction: column;
-        background: #ccc4e4;
+        background: #ebdede;
         z-index: 99;
         opacity: 1;
         transition: 0.5s linear;
